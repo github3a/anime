@@ -1,0 +1,39 @@
+/*software para maquetar*/
+/*descargar JQuery*/
+@charset "utf-8";
+
+.caja .cabecera{
+    background-color: #c45671;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.caja .menu{
+    background-color:  #197ac6;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.caja .contenido{
+    width: 60%;
+    background-color: #3cc3c9;
+    padding: 5px;
+    margin-bottom: 5px;
+    height: 4em;
+    float: left;
+}
+
+.caja .destacados{
+    background-color: #be62d0;
+    float: right;
+    width: 34%;
+    padding: 5px;
+    margin-bottom: 5px;
+    height: 4em;
+}
+
+.caja .pie{
+    clear: both;
+    background-color: #eba244;
+    padding: 5px;
+}
